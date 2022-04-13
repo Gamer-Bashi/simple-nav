@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 135, 135);
+}
+
+.hover-me-to-see{
+    border-radius: 15px;
+    border: black solid ;
+    text-align: center;
+    height: 65px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(108,253,45,1) 100%);
+    font-size: large;
+}
+
+.hover-me-to-see-menu{
+    border-radius: 15px;
+    margin-top: 50px;
+    border: black solid ;
+    text-align: center;
+    height: 65px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(108,253,45,1) 100%);
+    font-size: large;
+    display: none;
+}
+
+p.hover-me-to-see-menu{
+    position: center;
+}
+
+p.hover-me-to-see{
+    position: center;
+}
