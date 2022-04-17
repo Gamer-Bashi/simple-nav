@@ -13,6 +13,7 @@ body{
 }
 
 .hover-me-to-see-menu{
+    position: absolute;
     border-radius: 15px;
     margin-top: 50px;
     border: black solid ;
